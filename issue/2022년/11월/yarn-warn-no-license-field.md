@@ -1,3 +1,9 @@
+---
+description: Issue 해결
+---
+
+# \[yarn] yarn warning - No license field 해결
+
 ## 1. 상황
 
 yarn 명령어를 실행 중, 다음과 같은 warning message를 만났다.
