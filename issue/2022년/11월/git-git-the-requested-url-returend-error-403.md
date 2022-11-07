@@ -47,6 +47,6 @@ git push -u origin main 시, 403 에러가 발생함.
 
 ## 5. 개념
 
-##### 참고 사이트
-
-https://beagle-dev.tistory.com/244
+```
+참고 사이트: https://beagle-dev.tistory.com/244
+```
