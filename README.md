@@ -1,11 +1,17 @@
 ---
-description: 새로 공부한 내용, 접한 이슈 등을 정리하는 공간입니다.
+description: 학습 내용, 이슈, TIL 등을 정리하는 공간입니다.
 ---
 
 # 👻 Isthis의 Archive
 
 ### 🗃 Study
 
+- 학습 내용 정리
+
 ### 💡 Issue
 
+- 이슈 정리
+
 ### 📖 TIL
+
+- Today I Learned
