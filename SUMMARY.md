@@ -1,10 +1,8 @@
 # Table of contents
 
-* [정리 - 이슈 학습 내용](README.md)
-
 ## 🗃 Study
 
-* [Page 1](study/page-1.md)
+* [Page 1](README.md)
 
 ## 💡 Issue
 
